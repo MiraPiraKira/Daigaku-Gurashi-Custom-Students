@@ -13,7 +13,7 @@ HairSecondaryColour|1|
 Eyes|6|
 Mouth|1|
 Skin|4|
-HeadAccessory|0|
+HeadAccessory|9|
 Eyewear|0|
 Pantsu|41|
 Sexual Preference|-1|
@@ -47,7 +47,7 @@ Kuudere|False|
 Loyal|True|
 Voice|0|
 Lingo Great|amazing|
-Lingo Crappy|poopy|
+Lingo Crappy|rubbish|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
@@ -62,7 +62,7 @@ ThighHigh Base|5|
 ThighHigh Extra|3|
 Pelvis|2|
 Voice Pitch|4|
-HeadAccessoryColour|0|
+HeadAccessoryColour|1|
 OppaiSize|0|
 Lingo Very|19|
 Author|Mira|
@@ -70,12 +70,12 @@ Description|A shy and innocent girl|
 Shirt_Colour|5|
 Shirt_Decal|5|
 Pants_Colour|3|
-WearDress%|0|
+WearDress%|50|
 Dress_Colour|2|
 Dress_Decal|18|
 Hygiene|10000|
 WearSchoolgirl%|0|
-Schoolgirl_Bow_Colour|5|
+Schoolgirl_Bow_Colour|50|
 Schoolgirl_Collar_Colour|29|
 Schoolgirl_Cuffs_Colour|2|
 Schoolgirl_Shirt_Colour|1|
